@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+a {
+    color: blanchedalmond;
+    display: block;
+}
